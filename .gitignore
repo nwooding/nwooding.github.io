@@ -1,0 +1,27 @@
+/vendor
+/node_modules
+/public/storage
+Homestead.yaml
+Homestead.json
+public/uploads
+public/uploads/*
+app/Console/Commands/flags
+publish.bat
+public/userfiles
+public/userfiles/*
+
+/* IDE */
+.idea
+.idea/*
+/.idea
+/.idea/
+
+/* env file */
+/.env
+
+/* Stuff that's published down (delete when you've forked to project)*/
+resources/views
+resources/views/
+resources/views/*
+resources/assets
+
